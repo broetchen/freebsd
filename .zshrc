@@ -1,4 +1,4 @@
-!/bin/zsh
+#!/usr/local/bin/zsh
 # bind UP and DOWN arrow keys
 zmodload zsh/terminfo
 bindkey '^[OA' history-substring-search-up
